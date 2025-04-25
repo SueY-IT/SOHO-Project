@@ -1,4 +1,4 @@
-<h1>SOHO Porject</h1>
+<h1>SOHO Project</h1>
 
 <h2>Description</h2>
 This project utilizes Cisco Packet tracer to design a network that is independent from the company's main infrastructure. The network includes one Cisco router and one switch that supports three departments — Admin/IT, Finance/HR, and Customer Service/Reception. Each department is assigned to separate VLANs and wireless access is provided for each department.
